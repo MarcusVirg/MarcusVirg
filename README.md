@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building data science applications for C.H. Robinson with React & Python
-- 🌱 I’m currently learning Svelte Kit
+- 🌱 I’m currently learning [Svelte Kit](https://github.com/sveltejs/kit)
 - 💬 Ask me about full-stack development with React & Node
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...-->
