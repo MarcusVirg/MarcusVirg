@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building data science applications for C.H. Robinson with React & Python
+- 🔭 Currently building a new way to manage your network
 - 🌱 I’m currently learning [Svelte Kit](https://github.com/sveltejs/kit)
 - 💬 Ask me about full-stack development with React & Node
 <!-- - 👯 I’m looking to collaborate on ... -->
